@@ -1,1 +1,1 @@
-# ⚽ Minicurso FLAI Data Science na Copa
+# ⚽Data Science na Copa
